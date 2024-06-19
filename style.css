@@ -1,3 +1,7 @@
-.color{
-    color: white;
+body{
+    color: red;
+}
+
+a{
+    text-align: center;
 }
